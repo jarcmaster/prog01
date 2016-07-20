@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2016/07/20 00:28:15.544,=C:\Users\JARC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/07/20 00:29:46.718,C:\Users\JARC\Desktop\EZ-Invoice\uLogin.dfm=C:\Users\JARC\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/07/20 00:29:46.718,C:\Users\JARC\Desktop\EZ-Invoice\uLogin.pas=C:\Users\JARC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/07/20 00:30:06.220,C:\Users\JARC\Desktop\EZ-Invoice\EZ_Invoice.dproj=C:\Users\JARC\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
